@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="499aa01c-5285-48fa-a6c7-a30ec823af35" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2XxbEViEOqCDwB23hHGveLPExNa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/college/level 4-CSE/first term/Multimedia-Berbar/reports/compression_decompression -final&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="499aa01c-5285-48fa-a6c7-a30ec823af35" name="Changes" comment="" />
+      <created>1699573568753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699573568753</updated>
+      <workItem from="1699573575037" duration="4000" />
+      <workItem from="1699573589199" duration="1951000" />
+      <workItem from="1699611298455" duration="13204000" />
+      <workItem from="1699888968180" duration="9567000" />
+      <workItem from="1699953330134" duration="1148000" />
+      <workItem from="1699996156289" duration="4951000" />
+      <workItem from="1700004669709" duration="1470000" />
+      <workItem from="1701037590416" duration="557000" />
+      <workItem from="1703103465494" duration="13929000" />
+      <workItem from="1703161110654" duration="308000" />
+      <workItem from="1703430225729" duration="2711000" />
+      <workItem from="1703439897317" duration="1088000" />
+      <workItem from="1703490397807" duration="7003000" />
+      <workItem from="1703707298462" duration="181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scanner_using_java$Main.ic" NAME="Main Coverage Results" MODIFIED="1703707460288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/scanner_using_java$ReadTextAsString.ic" NAME="ReadTextAsString Coverage Results" MODIFIED="1699617556083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>io.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/scanner_using_java$main.ic" NAME="main Coverage Results" MODIFIED="1703109485225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/scanner_using_java$regularExpressions.ic" NAME="regularExpressions Coverage Results" MODIFIED="1699895830466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
